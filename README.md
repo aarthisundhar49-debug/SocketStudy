@@ -53,6 +53,18 @@ Socket programming finds applications in various domains, including web developm
 4.	Networked Games: Online multiplayer games rely on socket programming to facilitate communication between game clients and servers.
 5.	RPC mechanisms: which allow processes to execute code on a remote server, often use socket programming for communication.
 
+## IMPORTANT FUNCTIONS IN SOCKET PROGRAM:
+ Function    | Purpose              
+
+ `socket()`  - Create socket        
+ `bind()`    - Attach IP and port   
+`listen()`  - Wait for connections 
+ `accept()`  -Accept client        
+`connect()` - Connect to server    
+ `send()`    - Send data            
+ `recv()`    - Receive data         
+ `close()`   - Close connection     
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
