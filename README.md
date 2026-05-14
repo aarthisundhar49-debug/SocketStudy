@@ -59,7 +59,7 @@ Socket programming finds applications in various domains, including web developm
  `socket()`  - Create socket        
  `bind()`    - Attach IP and port   
 `listen()`  - Wait for connections 
- `accept()`  -Accept client        
+`accept()`  -Accept client        
 `connect()` - Connect to server    
  `send()`    - Send data            
  `recv()`    - Receive data         
